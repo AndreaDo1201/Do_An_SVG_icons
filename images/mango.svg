@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mango" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.29 390.44">
+  <g id="mango-2" data-name="mango">
+    <path d="M279.75,200.26c0,81.21-130.38,182.23-211.59,182.23s-35.45-72.97-43.34-153.8c-7.92-81.09,38.96-152.25,120.17-152.25s134.76,42.61,134.76,123.82Z" style="fill: #fbb040;"/>
+    <path d="M287.71,188.78c0,88.98-142.85,199.66-231.83,199.66S17.04,308.49,8.39,219.93C-.29,131.08,51.07,53.12,140.05,53.12s147.65,46.68,147.65,135.66Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  </g>
+  <path d="M184.9,110.54S251.53,50.8,222.43,1.27" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 5px;"/>
+  <g id="leaf_2" data-name="leaf 2">
+    <path d="M198.22,98.12s53.44,69.38,115.8,2.52c0,0-50.36-71.79-115.8-2.52Z" style="fill: #006838;"/>
+    <path d="M198.41,98.39s60.14,78.07,130.31,2.83c0,0-56.67-80.78-130.31-2.83Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  </g>
+</svg>

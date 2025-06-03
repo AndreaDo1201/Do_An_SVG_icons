@@ -1,0 +1,99 @@
+body {
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#oju-information {
+  background-color: #ffae5d;
+  color: #000000;
+  padding: 40px 20px;
+  max-width: 600px;
+  margin: 0 auto 20px;
+  text-align: center;
+  border-radius: 22px;
+  box-shadow: 0 4px 16px rgba(249, 28, 28, 0.05);
+}
+
+#oju-information h2 {
+  font-size: 28px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #d74a00;
+  margin-bottom: 10px;
+}
+
+#oju-information h3 {
+  font-size: 28px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(96, 184, 154);
+}
+
+#oju-information p {
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.9;
+  margin: 10px auto;
+  max-width: 700px;
+}
+
+.flavour-list {
+  list-style: none;
+  padding: 100px;
+  margin-top: 100px;
+  text-align: left;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flavour-list li {
+  padding: 10px 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#icon-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 80px;
+  justify-items: center;
+}
+
+.fruit-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  opacity: 0.2;
+  transform: scale(1.5);
+  transition: transform 0.6s ease, opacity 0.6s ease;
+  cursor: pointer;
+  margin-top: 60px;
+}
+
+.fruit-icon:hover {
+  opacity: 1;
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 8px rgba(248, 185, 85, 0.648));
+}
+
+object {
+  width: 200px;
+  height: 200px;
+}
+
+.icon-label {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: center;
+  color: #333;
+}
+

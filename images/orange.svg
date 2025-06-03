@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="orange" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 422.09">
+  <g id="orange-2" data-name="orange">
+    <circle cx="169.09" cy="267.8" r="152.28" style="fill: #f15a29;"/>
+    <circle cx="164" cy="258.09" r="162" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  </g>
+  <g>
+    <path d="M212.35,50.51s-32.43,20.66-42.53,42.77c-10.1,22.11-8.65,55.91-8.65,55.91,0,0,6.14-46.42,23.78-62.44,15.26-13.86,30.28-22.95,34.19-25.83,3.9-2.87,1.45-11.29-6.8-10.42Z" style="fill: #006838;"/>
+    <path d="M218.3,39.81s-36.96,23.46-49.14,49.14c-12.17,25.67-8.59,65-8.59,65,0,0,5.16-51.6,26.78-69.36,18.62-15.29,36.22-25.9,40.82-29.19,4.61-3.29-.22-16.46-9.88-15.58Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  </g>
+  <g id="leaf">
+    <path d="M170.18,87.27S166.5-5,72.09,14.5c0,0-.44,92.47,98.09,72.76Z" style="fill: #006838;"/>
+    <path d="M170.18,86.92S166.04-16.9,59.8,5.05c0,0-.5,104.05,110.37,81.87Z" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  </g>
+</svg>
